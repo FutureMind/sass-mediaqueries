@@ -17,6 +17,7 @@
     "_media-queries.scss",
     "README.md"
   ],
+  "main": "_media-queries.scss",
   "repository": {
     "type": "git",
     "url": "git@github.com:paranoida/sass-mediaqueries.git"
